@@ -1,6 +1,6 @@
 
 {
-  "TimeTable" : "本周免费阅读",
+  "timeTable" : "本周免费阅读",
   "members" : [
     {
       "week" : "周一、二",
